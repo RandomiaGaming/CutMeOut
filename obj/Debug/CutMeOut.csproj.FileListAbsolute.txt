@@ -1,0 +1,7 @@
+D:\Coding\C#\CutMeOut\bin\Debug\CutMeOut.exe.config
+D:\Coding\C#\CutMeOut\bin\Debug\CutMeOut.exe
+D:\Coding\C#\CutMeOut\bin\Debug\CutMeOut.pdb
+D:\Coding\C#\CutMeOut\obj\Debug\CutMeOut.csproj.AssemblyReference.cache
+D:\Coding\C#\CutMeOut\obj\Debug\CutMeOut.csproj.CoreCompileInputs.cache
+D:\Coding\C#\CutMeOut\obj\Debug\CutMeOut.exe
+D:\Coding\C#\CutMeOut\obj\Debug\CutMeOut.pdb
